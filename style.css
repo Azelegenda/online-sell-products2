@@ -1,0 +1,59 @@
+header h1 {
+    background-image: linear-gradient(to top, yellow, rgb(255, 255, 255), blue);
+    border: 1px black solid;
+    text-align: center;
+    border-radius: 5px;
+}
+
+main img {
+    border: 5px double rgb(255, 102, 0);
+    background-color: rgb(252, 172, 172);
+    width: 135px ;
+    height: 135px ;
+}
+
+footer h1 {
+    background-image: linear-gradient(to top, yellow, rgb(255, 255, 255), blue);
+    border: 1px black solid;
+    text-align: center;
+    border-radius: 5px;
+}
+
+main p {
+    background-color: lightblue;
+    border: 1px black solid;
+    border-radius: 5px;
+    width: fit-content;
+    font-size: 17px
+}
+
+footer p {
+    background-image: linear-gradient(to top, rgb(74, 201, 240));
+    border: 1px rgb(0, 0, 0) solid;
+    border-radius: 5px;
+    width: fit-content;
+    font-size: 20px;
+}
+
+body {
+    background-color: rgb(252, 238, 238);
+}
+
+h1 {
+    background-image: linear-gradient(to top, yellow, rgb(255, 255, 255), blue);
+    border: 1px black solid;
+    text-align: center;
+    border-radius: 5px;
+}
+
+.imgovosh { 
+    display: flex;
+}
+
+.imgfrykt {
+    display: flex;
+}
+
+.imgfastfood {
+    display: flex;
+}
